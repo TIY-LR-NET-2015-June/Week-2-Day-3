@@ -12,7 +12,7 @@ Challenge: Palindrome
 returns true
 
 "dog".IsPalindrome()
-=> false
+returns  false
 ```
 
 
