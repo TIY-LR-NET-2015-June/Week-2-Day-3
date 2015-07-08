@@ -49,7 +49,9 @@ Console.WriteLine("nay");
 2. Testing prep with Rock/Paper/Scissors (decision tree)
 3. Challenge (fizzbuzz)
 4. Mock out "AI' for Rock/Paper/Scissors
-
+5. Extra Material to Review - Delegates and Events (since i'll be out on vacation :))
+    a. Video: https://www.youtube.com/watch?v=jQgwEsJISy0
+    b. Docs: https://msdn.microsoft.com/en-us/library/orm-9780596521066-01-17.aspx
 
 Homework
 --------
